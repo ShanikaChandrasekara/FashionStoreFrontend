@@ -1,0 +1,51 @@
+.leftside, .rightside{
+    height: 100vh;
+    width: 100%;
+}
+
+.leftside{
+
+}
+
+.rightside{
+
+}
+
+.login-parent-admin{
+    margin-top: 10vh;
+    height: 70vh;
+    width: 50%;
+    margin-left: auto;
+    margin-right: 10%;
+    display: flex;
+
+}
+
+.login-name-admin{
+    background-color: darkcyan;
+    height: 50vh;
+    width: 1%;
+    display: flex;
+    text-align: center;
+}
+
+.title-admin{
+    margin: auto;
+    color: white;
+}
+
+.add-form{
+    width: 60%;
+    height: 70vh;
+    border: 3px solid darkcyan;
+    padding: 5%;
+
+}
+
+.submit-button{
+    color: white;
+    width: 100%;
+    margin-top: 5vh;
+    background-color: darkcyan;
+
+}
